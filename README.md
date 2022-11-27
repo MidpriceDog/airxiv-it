@@ -26,7 +26,7 @@ Another shortcoming I discovered was the result of trying to get PDF [metadata](
 
 ## For Mac or Linux
 
-Download `pretty_named_paper_download.py` and place it in the directory of your choice.
+Download `paper_downloader.py` and place it in the directory of your choice.
 `cd` into the directory.
 
 Note that papers will be saved to the directory this file is placed in by default. If you wish to change where to save the renamed papers, change the global variable `DEFAULT_FILEPATH` in the `.py` file.
