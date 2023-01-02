@@ -1,4 +1,4 @@
-# paper-downloader
+# arxiv-it
 Quickly download an academic paper from a URL or a filepath local to your system.
 
 # Motivation
