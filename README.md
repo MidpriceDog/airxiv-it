@@ -1,5 +1,5 @@
 # arxiv-it
-Quickly download an academic paper from a URL or a filepath local to your system.
+Quickly download an [arXiv](https://arxiv.org/) academic paper from a URL or a filepath local to your system.
 
 # Motivation
 
